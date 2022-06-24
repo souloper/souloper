@@ -1,4 +1,4 @@
-### <h1 align="center">Kon'nichiwa | Hallo, I'm Soumya Das <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+### <h1 align="center">Kon'nichiwa | Hallo, I'm Soumya Das <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="45px"></h1>
 
 <h3 align="center">A CS Junior 💻 from India</h3>
 

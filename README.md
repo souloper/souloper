@@ -6,7 +6,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/getsoumyaa?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgetsoumyaa&screen_name=getsoumyaa)<br><br>
 
-#### - 🔭 I’m currently working on **Full stack Projects**
+#### - 🔭 I’m currently working as a full-time **Software Engineer** on **TATA**
 #### - 🌱 I’m currently learning **REACT Js <img height="10" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">**
 #### - 👯  Looking forward to new opportunities 🚪
 #### - ⚡ Fun fact **I love to Code, Play video games & Illustrate**
